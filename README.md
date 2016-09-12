@@ -14,9 +14,15 @@ Do to the above note, for now replace the SWI #n calls with LDR R8,#n followed b
 
 The supported functions are to be:
 SWI 0x01 : Keyboard.
+
 SWI 0x02 : Mouse.
+
 SWI 0x03 : Block Device.
+
 SWI 0x04 : Sound.
+
 SWI 0x05 : GPIO.
+
 SWI 0x06 : Video.
+
 SWI 0x0F : USB Stuff.
