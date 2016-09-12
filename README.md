@@ -1,3 +1,5 @@
+Updates will be a bit slow as I have to reboot into Linux to do anything, RISC OS does not have a port of git yet, and the current Webbrowsers for RISC OS are not supported by the web interface for github.
+
 # UltiBIOS
 This is a BIOS for Raspberry Pi OS Development, using Ultibo as its core.
 
