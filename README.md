@@ -1,4 +1,7 @@
-Updates will be a bit slow as I have to reboot into Linux to do anything, RISC OS does not have a port of git yet, and the current Webbrowsers for RISC OS are not supported by the web interface for github.
+# Dead Project:
+UltiBIOS is a dead project.   Sorry, just to much strangeness to the way Ultibo does things.
+
+Ultibo is great for quick Pascal projects to run with a truely minimal Operating system, though not so greate for attemtping to create an API.
 
 # UltiBIOS
 This is a BIOS for Raspberry Pi OS Development, using Ultibo as its core.
